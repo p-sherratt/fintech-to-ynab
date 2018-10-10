@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/fintech-to-ynab/f2ynab.git
-  revision: 2997d9e49063765c55d72f32669d4951d43d522f
+  revision: 3ee8170dd7ec43d47f49f1d728e9279e4e219a1f
   specs:
     f2ynab (0.1.0)
       money
